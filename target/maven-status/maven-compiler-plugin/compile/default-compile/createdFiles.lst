@@ -1,0 +1,13 @@
+br\com\argentum\modelo\CandleBuilder.class
+br\com\argentum\modelo\Negociacao.class
+br\com\argentum\main\TestaCandlestickNegociacoesDecrescente.class
+br\com\argentum\modelo\Candlestick.class
+br\com\argentum\main\TestaCandlestickFactoryComUmaNegociacaoApenas.class
+br\com\argentum\main\GeradorAleatorioDeXML.class
+br\com\argentum\modelo\CandlestickFactory.class
+br\com\argentum\modelo\NegociacaoHandler.class
+br\com\argentum\webService\ClienteWebService.class
+br\com\argentum\main\TestaCandlestickFactory.class
+br\com\argentum\uteis\Comparator.class
+br\com\argentum\reader\LeitorXML.class
+br\com\argentum\main\TestaCandlestickFactorySemNegociacoes.class

@@ -1,0 +1,5 @@
+br\com\argentum\modelo\AllTests.class
+br\com\argentum\modelo\CandlestickFactoryTest.class
+br\com\argentum\modelo\LeitorXmlTest.class
+br\com\argentum\modelo\NegociacaoTest.class
+br\com\argentum\modelo\CandlestickTest.class
